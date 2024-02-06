@@ -1,6 +1,6 @@
 {
-    "name": "tutorial-sidescroller-race",
-    "version": "0.0.92",
+    "name": "Race-Into-Stem-Tutorial",
+    "version": "0.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
