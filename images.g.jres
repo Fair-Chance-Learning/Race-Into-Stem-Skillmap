@@ -1,0 +1,32 @@
+{
+    "S~b?D5RsR:~wn^nR+QOZ": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "temp1"
+    },
+    "image11": {
+        "data": "hwQDAFoAAAD///////////////////////////////////////////////////////////8AAAD///////////////////////////////////////////////////////////8AAAD///////////////////////////////////////////////////////////8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "finish-line-sprite"
+    },
+    "image13": {
+        "data": "hwQsABAAAAAAsADQDQAAAADQsd3d3QEAABCdbdhrDQDAHNHRG729DMzPu7u7u8vMzMzM///8zMzMy8zMzMy8y8zMzMu4zMzMwLy8y7i7y8wAwMyMuMwMAADAy4zIvAwAALjLjMi/ywAAvMzMyM/7AAC8/8zM/MsAAMvPy7z8zAAAy8+7u8zMAADLz8u2zLwAAMvPbMbMvAAAzGzMzMbMAADMbMZmxswAAMtsZmbGvAAAy2/Gb8bcAAC7zPu/xjwAALu7zL+2vAAAu2zGbLa7AADLzGZptrsAALC7bGa7DAAAwLtrZrsMAADAAGZmAAwAAMAAaGkADAAAAABoaQAAAMAMAJu5AMDM/My8m7nLzMzMzMy7tszMzLzMu2u2vMzLzLsA27sNu8zwDAC7uwDAz7AAAMAGAACz290AsAYAvb282wuwC7C9zLy83by73bvLsLu7vdu9uwsAALu927sAAAAAALzMAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "opponent-blue"
+    },
+    "image1": {
+        "data": "hwQsABAAAAAA0N3d3d0NAADQnd3d2Q0AANCdaZaZDQAA0N3d3d0NADO/u7u7u/vPMzM/8z/zMzOzOzMzM7O7O7M7u7ZrMzMzMzMztms788ywvDu2a7PLDADAPLZr8wsAALBvmZnzCwAAsLs5k8u7AAC8mTmTucsAAJw5MzOZyQAAnDMzMzO5AAA7MzMzM7MAADszO7MzswAAPTM7szMzAAA9M7M7MzMAAD0zszszMwAAPTOzOzMzAAA9M/M/MzMAAD0z8z8zswAAmznzP5O5AACwO/M/MwsAALC7MzO7DAAAwLwzM8wPAADwsDMzDw8AAPAAmZkADwAAAAAzMwAAAMAMADMzAAAAzLyQmZkJy8y7nJkzM5m5y7ucuzMzu7nLvJ+7MzO7yczMDMAzMwDM/7AAAJmZAAALMwAAMAMAMDMzswAwAwA7M7wzaz0DuzMMsLuzPdM7/AwAALs7s8wAAAAAAL/LAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-pink"
+    },
+    "image2": {
+        "data": "hwQsABAAAAAA0N3d3d0NACDQnd3d2Q0CQNKdaZaZDSQ01N3d3d1NQzO/u7u7u/vPMzM/8z/zMzOzOzMzM7O7O7M7u7ZrMzMzMzMztms788ywvDu2a7PLDADAPLZr8wsAALBvmZnzCwAAsLs5k8u7AAC8mTmTucsAAJw5MzOZyQAAnDMzMzO5AAA7MzMzM7MAADszO7MzswAAPTM7szMzAAA9M7M7MzMAAD0zszszMwAAPTOzOzMzAAA9M/M/MzMAAD0z8z8zswAAmznzP5O5AACwO/M/MwsAALC7MzO7DAAAwLwzM8wPAADwsDMzDw8AAPAAmZkADwAAAAAzMwAAAMAMADMzAAAAzLyQmZkJy8y7nJkzM5m5y7ucuzMzu7nLvJ+7MzO7yczMDMAzMwDM/7AAAJmZAAALMwAAMAMAMDMzswAwAwA7M7wzaz0DuzMMsLuzPdM7/AwAALs7s8wAAAAAAL/LAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "player-pink-drs"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

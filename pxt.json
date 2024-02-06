@@ -1,0 +1,42 @@
+{
+    "name": "tutorial-sidescroller-race",
+    "version": "0.0.92",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "sprite-scaling": "*",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-background-scroll": "github:microsoft/arcade-background-scroll#6cfbf925b9a4d5ddf3e1078e6cf6ca6a1aebb301"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "custom.ts",
+        "tutorial/sidescroller/activity5.md",
+        "images.g.jres",
+        "images.g.ts",
+        "tutorial/sidescroller/activity1.md",
+        "tutorial/sidescroller/activity2.md",
+        "tutorial/sidescroller/activity3.md",
+        "tutorial/sidescroller/activity4.md",
+        "skillmap.md",
+        "track.ts",
+        "lights.ts",
+        "more_lights.ts",
+        "finish.ts",
+        "some_lights.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.47",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
